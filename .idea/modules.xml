@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CDC_Consumer1.iml" filepath="$PROJECT_DIR$/.idea/modules/CDC_Consumer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CDC_Consumer1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CDC_Consumer1_main.iml" group="CDC_Consumer1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CDC_Consumer1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CDC_Consumer1_test.iml" group="CDC_Consumer1" />
+    </modules>
+  </component>
+</project>
